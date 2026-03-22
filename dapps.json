@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"author": "User",
+		"id": "674174197676c",
+		"title": "HMOOB Mining",
+		"logo": "https://alchemy.mypinata.cloud/ipfs/bafybeiflq5xdcxi7ugtef5wrnh5tf7lr6dy2gnn2ge3kv7j7c3fzzd4ubm",
+		"categories": [
+			"Mining"
+		],
+		"shortDescription": "Next-Generation Mining start earning today.",
+		"site": "https://hmoob.io/",
+		"description": "Next-Generation Mining start earning today.",
+		"url": "https://hmoob.io/",
+		"external": true
+	},
+	{
+		"author": "User",
+		"id": "674174157676c",
+		"title": "RLY Mining",
+		"logo": "https://alchemy.mypinata.cloud/ipfs/bafybeih46chzyba3hccy2jclemcvi6p6bbmba37bqruc3q43mybmirgtce",
+		"categories": [
+			"Mining"
+		],
+		"shortDescription": "Join the crypto mining. Earn 450 RLY free.",
+		"site": "https://rlymining.com/",
+		"description": "Join the crypto mining. Earn 450 RLY free.",
+		"url": "https://rlymining.com/",
+		"external": true
+	}
+]
